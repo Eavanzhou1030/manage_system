@@ -1,8 +1,8 @@
 {
-  "name": "tpls",
+  "name": "manage-system",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "kunyashaw@gmail.com <zhang_zhong_lei@163.com>",
+  "author": "Evan",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
